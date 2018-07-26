@@ -1,5 +1,9 @@
 # MySQL Sub Queries
 
+## The Assignment
+
+Help your manager to extract data and format it using subqueries and MySQL functions. The exercises are below.
+
 ## Deliverables
 
 + a github repository named `assignment--mysql-sub-queries` with a `.sql` file containing all the queries.
@@ -63,9 +67,6 @@ SELECT Id, Name
 
 
 
-## The Assignment
-
-Help your manager to extract data and format it using subqueries and MySQL functions.
 
 ## Exercise
 
